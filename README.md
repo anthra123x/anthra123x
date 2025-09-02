@@ -1,9 +1,5 @@
-<!-- Banner (puedes diseñar uno en canva, figma o usar un generador) -->
-<p align="center">
-  <img src="https://i.ibb.co/3R9KkqF/banner-github.png" alt="Andrés Camilo Martínez - Fullstack Developer" />
-</p>
 
-<h1 align="center">👋 Hola, soy Andrés Camilo Martínez</h1>
+<h1 align="center">👋 ¡Hola, soy Andrés Camilo Martínez!</h1>
 <p align="center">
   🚀 Desarrollador Fullstack | 💻 Amante de Linux | ☁️ Cloud & DevOps Enthusiast
 </p>
@@ -49,22 +45,24 @@
 
 ## 🚀 Proyectos Destacados
 <table>
-<tr>
-<td align="center" width="50%">
-  
-### 🛒 E-commerce App  
-📌 Tienda online con Laravel + MySQL + Docker  
-🔗 [Ver repositorio](#)  
-
-</td>
-<td align="center" width="50%">
-  
-### 📊 Dashboard Analytics  
-📌 Dashboard interactivo con React + Node.js + MongoDB  
-🔗 [Ver repositorio](#)  
-
-</td>
-</tr>
+  <tr>
+    <td align="center" width="50%">
+      <h3>🛒 <a href="https://github.com/andrescmartinez/ecommerce-app">E-commerce App</a></h3>
+      <p>Tienda online con autenticación, carrito y pagos.<br>
+      <b>Tecnologías:</b> Laravel, MySQL, Docker</p>
+      <a href="https://github.com/andrescmartinez/ecommerce-app">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=andrescmartinez&repo=ecommerce-app&theme=tokyonight" width="90%" />
+      </a>
+    </td>
+    <td align="center" width="50%">
+      <h3>📊 <a href="https://github.com/andrescmartinez/dashboard-analytics">Dashboard Analytics</a></h3>
+      <p>Dashboard interactivo para análisis de datos.<br>
+      <b>Tecnologías:</b> React, Node.js, MongoDB</p>
+      <a href="https://github.com/andrescmartinez/dashboard-analytics">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=andrescmartinez&repo=dashboard-analytics&theme=tokyonight" width="90%" />
+      </a>
+    </td>
+  </tr>
 </table>
 
 ---
