@@ -47,9 +47,9 @@
 <table>
   <tr>
     <td align="center" width="50%">
-      <h3>🛒 <a href="https://github.com/andrescmartinez/ecommerce-app">E-commerce App</a></h3>
-      <p>Tienda online con autenticación, carrito y pagos.<br>
-      <b>Tecnologías:</b> Laravel, MySQL, Docker</p>
+      <h3>🛒 <a href="https://github.com/andrescmartinez/ecommerce-app">sistema de inventario</a></h3>
+      <p>Sistema de inventario online para gestion de negicio<br>
+      <b>Tecnologías:</b> .....</p>
       <a href="https://github.com/andrescmartinez/ecommerce-app">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=andrescmartinez&repo=ecommerce-app&theme=tokyonight" width="90%" />
       </a>
