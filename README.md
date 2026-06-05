@@ -125,7 +125,7 @@
 <p align="center">
   <img src="https://img.shields.io/github/followers/anthra123x?style=for-the-badge&logo=github&color=blue" />
   <img src="https://img.shields.io/github/stars/anthra123x?style=for-the-badge&logo=github&color=blue" />
-  <img src="https://img.shields.io/badge/repos-20-blue?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fanthra123x&query=%24.public_repos&label=repos&style=for-the-badge&logo=github&color=blue" />
   <img src="https://komarev.com/ghpvc/?username=anthra123x&style=for-the-badge&color=blue" />
 </p>
 
