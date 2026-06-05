@@ -129,14 +129,6 @@
 
 ---
 
-<h2>🐍 Contribuciones</h2>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/anthra123x/anthra123x/main/dist/github-contribution-grid-snake.svg" alt="snake" />
-</p>
-
----
-
 <h2>📫 Contacto</h2>
 
 <p align="center">
