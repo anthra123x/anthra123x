@@ -123,16 +123,8 @@
 <h2>📈 Estadísticas</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anthra123x&show_icons=true&theme=react&hide_border=true&bg_color=0d1117&count_private=true&include_all_commits=true" height="170" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=anthra123x&theme=react&hide_border=true&background=0d1117" height="170" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anthra123x&layout=compact&theme=react&hide_border=true&bg_color=0d1117&langs_count=6" height="170" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=anthra123x&theme=nord&no-frame=true&no-bg=true&row=1&column=6" height="100" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anthra123x&theme=react&hide_border=true&bg_color=0d1117&custom_title=Actividad%20reciente" height="250" width="95%" />
 </p>
 
 ---
