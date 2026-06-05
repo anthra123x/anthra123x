@@ -1,158 +1,164 @@
-<h1 align="center">👋 ¡Hola, soy Andrés Camilo Martínez!</h1>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Andr%C3%A9s+Camilo+Mart%C3%ADnez;Fullstack+Developer;Next.js+%7C+React+%7C+TypeScript" alt="Typing SVG" />
+</div>
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Fullstack+Developer;Next.js+%7C+React+%7C+TypeScript;Prisma+%7C+PostgreSQL+%7C+Supabase" alt="Typing SVG" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white" />
 </p>
 
 ---
 
-## ⚡ Tech Stack
+<h2>👨‍💻 Sobre mí</h2>
 
-<h3 align="center">Frontend</h3>
-<p align="center">
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-</p>
-
-<h3 align="center">UI / Componentes</h3>
-<p align="center">
-  <img src="https://img.shields.io/badge/shadcn/ui-000000?style=for-the-badge&logo=shadcnui&logoColor=white" />
-  <img src="https://img.shields.io/badge/Radix_UI-161618?style=for-the-badge&logo=radixui&logoColor=white" />
-  <img src="https://img.shields.io/badge/Lucide-FF6B6B?style=for-the-badge&logo=lucide&logoColor=white" />
-  <img src="https://img.shields.io/badge/React_Hook_Form-EC5990?style=for-the-badge&logo=reacthookform&logoColor=white" />
-  <img src="https://img.shields.io/badge/Zod-3E67B1?style=for-the-badge&logo=zod&logoColor=white" />
-</p>
-
-<h3 align="center">Backend / Base de datos</h3>
-<p align="center">
-  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white" />
-</p>
-
-<h3 align="center">DevOps / Herramientas</h3>
-<p align="center">
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Sentry-362D59?style=for-the-badge&logo=sentry&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white" />
+<p>
+  Desarrollador fullstack especializado en el ecosistema <b>Next.js / React</b> con <b>TypeScript</b>.
+  Apasionado por construir aplicaciones web modernas, escalables y con buen rendimiento.
+  Actualmente tengo dos proyectos en producción: un sistema de inventario y un ecommerce.
 </p>
 
 ---
 
-## 🚀 Proyectos Destacados
-
-<h3 align="center">En producción</h3>
+<h2>🛠️ Stack Tecnológico</h2>
 
 <table>
   <tr>
-    <td align="center" width="50%">
-      <h3>📦 <a href="https://github.com/anthra123x/inventario-tecnicell">Inventario Tecnicell</a></h3>
-      <p>Sistema de inventario online para gestión de negocio</p>
-      <p>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="Next.js" /><br/>Next.js
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" /><br/>React
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=ts" width="48" height="48" alt="TypeScript" /><br/>TypeScript
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind" /><br/>Tailwind
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" /><br/>JavaScript
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" /><br/>HTML5
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS" /><br/>CSS3
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=prisma" width="48" height="48" alt="Prisma" /><br/>Prisma
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" /><br/>PostgreSQL
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=supabase" width="48" height="48" alt="Supabase" /><br/>Supabase
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" /><br/>Node.js
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=vercel" width="48" height="48" alt="Vercel" /><br/>Vercel
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" /><br/>Docker
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" /><br/>Git
+    </td>
+  </tr>
+</table>
+
+---
+
+<h2>📌 Proyectos Destacados</h2>
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3 align="center">📦 Inventario Tecnicell</h3>
+      <p align="center">
+        <a href="https://github.com/anthra123x/inventario-tecnicell">Repositorio</a> •
+        <a href="https://inventario-tecnicell-mvg1.vercel.app">Demo</a>
+      </p>
+      <p align="center">
+        Sistema de inventario online para gestión de negocio con autenticación,
+        exportación a Excel y dashboard en tiempo real.
+      </p>
+      <p align="center">
         <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white" />
         <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
         <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white" />
         <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat&logo=supabase&logoColor=white" />
-        <img src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white" />
+        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" />
       </p>
-      <a href="https://github.com/anthra123x/inventario-tecnicell">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=anthra123x&repo=inventario-tecnicell&theme=tokyonight" width="90%" />
-      </a>
     </td>
-    <td align="center" width="50%">
-      <h3>🏪 <a href="https://github.com/anthra123x/tecnicell-store">Tecnicell Store</a></h3>
-      <p>Tienda online con Next.js y PostgreSQL</p>
-      <p>
+    <td width="50%">
+      <h3 align="center">🏪 Tecnicell Store</h3>
+      <p align="center">
+        <a href="https://github.com/anthra123x/tecnicell-store">Repositorio</a>
+      </p>
+      <p align="center">
+        Tienda online desarrollada con Next.js 16, TypeScript y PostgreSQL.
+        Catálogo de productos, carrito de compras y panel de administración.
+      </p>
+      <p align="center">
         <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white" />
         <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
         <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white" />
         <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" />
       </p>
-      <a href="https://github.com/anthra123x/tecnicell-store">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=anthra123x&repo=tecnicell-store&theme=tokyonight" width="90%" />
-      </a>
-    </td>
-  </tr>
-</table>
-
-<h3 align="center">Otros proyectos</h3>
-
-<table>
-  <tr>
-    <td align="center" width="50%">
-      <h3>🎓 <a href="https://github.com/anthra123x/Sistema_educativo">Sistema Educativo</a></h3>
-      <p>Plataforma educativa en JavaScript</p>
-      <p>
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
-      </p>
-      <a href="https://github.com/anthra123x/Sistema_educativo">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=anthra123x&repo=Sistema_educativo&theme=tokyonight" width="90%" />
-      </a>
-    </td>
-    <td align="center" width="50%">
-      <h3>🎁 <a href="https://github.com/anthra123x/amigo-secreto-challenge">Amigo Secreto</a></h3>
-      <p>Challenge de sorteo de amigo secreto</p>
-      <p>
-        <img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white" />
-      </p>
-      <a href="https://github.com/anthra123x/amigo-secreto-challenge">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=anthra123x&repo=amigo-secreto-challenge&theme=tokyonight" width="90%" />
-      </a>
     </td>
   </tr>
 </table>
 
 ---
 
-## 📈 GitHub Stats
+<h2>📈 Estadísticas</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anthra123x&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" height="160" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anthra123x&theme=tokyonight" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=anthra123x&show_icons=true&theme=react&hide_border=true&bg_color=0d1117&count_private=true&include_all_commits=true" height="170" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anthra123x&theme=react&hide_border=true&background=0d1117" height="170" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anthra123x&layout=compact&theme=tokyonight&langs_count=8" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anthra123x&layout=compact&theme=react&hide_border=true&bg_color=0d1117&langs_count=6" height="170" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=anthra123x&theme=tokyonight&no-frame=true&row=1&column=6" height="100" />
-</p>
-
----
-
-## 🐍 Contribution Graph
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/anthra123x/anthra123x/refs/heads/main/dist/github-contribution-grid-snake.svg" alt="snake animation" />
+  <img src="https://github-profile-trophy.vercel.app/?username=anthra123x&theme=nord&no-frame=true&no-bg=true&row=1&column=6" height="100" />
 </p>
 
 ---
 
-## 🌐 Conéctate conmigo
+<h2>🐍 Contribuciones</h2>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/anthra123x/anthra123x/main/dist/github-contribution-grid-snake.svg" alt="snake" />
+</p>
+
+---
+
+<h2>📫 Contacto</h2>
 
 <p align="center">
   <a href="mailto:andrescamilomartinez@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/andrescamilomartinez%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://github.com/anthra123x">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com/in/andrescmartinez">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/anthra123x-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="https://inventario-tecnicell-mvg1.vercel.app">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+    <img src="https://img.shields.io/badge/mi_portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=anthra123x&color=blueviolet&style=flat" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=anthra123x&style=flat-square&color=blue" alt="visitors" />
 </p>
