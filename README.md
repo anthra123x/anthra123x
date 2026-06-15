@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Andr%C3%A9s+Camilo+Mart%C3%ADnez;Fullstack+Developer;Next.js+%7C+React+%7C+TypeScript" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Andrés+Camilo+Martínez;Fullstack+Developer;Next.js+Specialist" alt="Typing SVG" />
 </div>
 
 <p align="center">
@@ -19,7 +19,7 @@
 <p>
   Desarrollador fullstack especializado en el ecosistema <b>Next.js / React</b> con <b>TypeScript</b>.
   Apasionado por construir aplicaciones web modernas, escalables y con buen rendimiento.
-  Actualmente tengo dos proyectos en producción: un sistema de inventario y un ecommerce.
+  Actualmente tengo tres proyectos en producción: un sistema de inventario, un ecommerce y una plataforma de tienda.
 </p>
 
 ---
@@ -77,7 +77,7 @@
 
 ---
 
-<h2>📌 Proyectos Destacados</h2>
+<h2>📌 Proyectos en Producción</h2>
 
 <table>
   <tr>
@@ -85,7 +85,7 @@
       <h3 align="center">📦 Inventario Tecnicell</h3>
       <p align="center">
         <a href="https://github.com/anthra123x/inventario-tecnicell">Repositorio</a> •
-        <a href="https://inventario-tecnicell-mvg1.vercel.app">Demo</a>
+        <a href="https://inventario-tecnicell-mvg1.vercel.app">Demo en vivo</a>
       </p>
       <p align="center">
         Sistema de inventario online para gestión de negocio con autenticación,
@@ -102,11 +102,31 @@
     <td width="50%">
       <h3 align="center">🏪 Tecnicell Store</h3>
       <p align="center">
-        <a href="https://github.com/anthra123x/tecnicell-store">Repositorio</a>
+        <a href="https://github.com/anthra123x/tecnicell-store">Repositorio</a> •
+        <a href="https://tecnicell-store.vercel.app">Demo en vivo</a>
       </p>
       <p align="center">
         Tienda online desarrollada con Next.js 16, TypeScript y PostgreSQL.
         Catálogo de productos, carrito de compras y panel de administración.
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
+        <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white" />
+        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center">🛒 Container</h3>
+      <p align="center">
+        <a href="https://github.com/anthra123x/container">Repositorio</a> •
+        <a href="https://container-app.vercel.app">Demo en vivo</a>
+      </p>
+      <p align="center">
+        Plataforma de tienda de tecnología con gestión de productos,
+        pedidos y sistema de usuarios completo.
       </p>
       <p align="center">
         <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white" />
