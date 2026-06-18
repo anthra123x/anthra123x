@@ -98,7 +98,7 @@
       <div align="center">
         <h3>🖥️ Container Diagnostic Suite</h3>
         <p><b>Herramienta de Diagnóstico de Hardware</b></p>
-        <p>Aplicación portable de escritorio que analiza CPU, RAM, GPU, almacenamiento, batería, sensores y red en equipos Windows. Diagnóstico automático de 8 fases con pruebas manuales de componentes.</p>
+        <p>Aplicación portable de escritorio que analiza CPU, RAM, GPU, almacenamiento, batería, sensores y red en equipos Windows. Diagnóstico automático de 8 fases con pruebas manuales de compatibilidad.</p>
         <p>
           <a href="https://github.com/anthra123x/container-tester">
             <img src="https://img.shields.io/badge/Código-181717?style=flat-square&logo=github&logoColor=white" />
@@ -122,7 +122,22 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=anthra123x&show_icons=true&theme=github_dark&bg_color=0d1117&text_color=58a6ff&icon_color=00d4ff&border_color=30363d&border_radius=10)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anthra123x&layout=compact&theme=github_dark&bg_color=0d1117&text_color=58a6ff&border_color=30363d&border_radius=10&langs_count=8)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anthra123x&layout=compact&theme=github_dark&bg_color=0d1117&text_color=58a6ff&border_color=30363d&border_radius=10)
+
+</div>
+
+---
+
+## 💼 Portfolio
+
+<div align="center">
+
+### Mi vCard Portfolio
+Una presentación profesional y moderna de mis habilidades, proyectos y experiencia como desarrollador.
+
+[![Portfolio](https://img.shields.io/badge/Ver+Portfolio+Completo-00D4FF?style=for-the-badge&logoColor=white)](https://vcard-portfolio-lyart.vercel.app/)
+
+*Desarrollado con Next.js, React y Tailwind CSS*
 
 </div>
 
@@ -134,7 +149,7 @@
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:andrescamilomartinez@gmail.com)](mailto:andrescamilomartinez@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/anthra123x)](https://github.com/anthra123x)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white&link=https://inventario-tecnicell-mvg1.vercel.app)](https://inventario-tecnicell-mvg1.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white&link=https://vcard-portfolio-lyart.vercel.app/)](https://vcard-portfolio-lyart.vercel.app/)
 
 ![Visitors](https://komarev.com/ghpvc/?username=anthra123x&style=flat-square&color=00D4FF)
 
