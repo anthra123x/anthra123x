@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Hola👋+Soy+Andrés+Camilo;Fullstack+Developer+🚀;Next.js+|+React+|+TypeScript" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Hola👋+Soy+Andrés+Camilo;Fullstack+Developer" alt="Title" />
 </div>
 
 <p align="center">
@@ -13,7 +13,7 @@
 ```
 👨‍💻 Desarrollador Fullstack especializado en Next.js & React
 🎯 Pasionado por crear aplicaciones web escalables y performantes
-🌟 3 proyectos en producción con miles de usuarios
+🌟 3+ proyectos en producción con miles de usuarios
 📚 Aprendiz constante del ecosistema JavaScript/TypeScript
 🚀 Entusiasta de las mejores prácticas y arquitectura limpia
 ```
@@ -51,8 +51,8 @@
   <tr>
     <td width="50%">
       <div align="center">
-        <h3>📦 Inventario Tecnicell</h3>
-        <p><b>Sistema de Gestión de Inventario</b></p>
+        <h3>📦 Sistema de Inventario</h3>
+        <p><b>Gestión de Inventario Integral</b></p>
         <p>Plataforma completa para administrar inventarios con autenticación avanzada, exportación a Excel y dashboard en tiempo real.</p>
         <p>
           <a href="https://github.com/anthra123x/inventario-tecnicell">
@@ -94,7 +94,7 @@
 
 <table>
   <tr>
-    <td width="100%">
+    <td width="50%">
       <div align="center">
         <h3>🛒 Container</h3>
         <p><b>Plataforma de Tienda de Tecnología</b></p>
@@ -114,6 +114,23 @@
         </p>
       </div>
     </td>
+    <td width="50%">
+      <div align="center">
+        <h3>🧪 Container Tester</h3>
+        <p><b>Herramienta de Testing para Contenedores</b></p>
+        <p>Plataforma especializada para testing, validación y monitoreo de aplicaciones containerizadas con Docker. Incluye análisis de rendimiento y reportes detallados.</p>
+        <p>
+          <a href="https://github.com/anthra123x/container-tester">
+            <img src="https://img.shields.io/badge/Código-181717?style=flat-square&logo=github&logoColor=white" />
+          </a>
+        </p>
+        <p>
+          <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+          <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+          <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+        </p>
+      </div>
+    </td>
   </tr>
 </table>
 
@@ -123,9 +140,9 @@
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=anthra123x&show_icons=true&theme=github_dark&bg_color=0d1117&text_color=58a6ff&icon_color=00d4ff&border_color=30363d&border_radius=10&hide_title=false)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=anthra123x&show_icons=true&theme=github_dark&bg_color=0d1117&text_color=58a6ff&icon_color=00d4ff&border_color=30363d&border_radius=10)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anthra123x&layout=compact&theme=github_dark&bg_color=0d1117&text_color=58a6ff&border_color=30363d&border_radius=10&card_width=300)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anthra123x&layout=compact&theme=github_dark&bg_color=0d1117&text_color=58a6ff&border_color=30363d&border_radius=10&langs_count=8)
 
 </div>
 
