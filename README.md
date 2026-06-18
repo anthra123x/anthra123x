@@ -71,31 +71,6 @@
     </td>
     <td width="50%">
       <div align="center">
-        <h3>🏪 Tecnicell Store</h3>
-        <p><b>Tienda de Tecnología Online</b></p>
-        <p>Ecommerce moderno con catálogo de productos, carrito inteligente, procesamiento de pedidos y panel administrativo.</p>
-        <p>
-          <a href="https://github.com/anthra123x/tecnicell-store">
-            <img src="https://img.shields.io/badge/Código-181717?style=flat-square&logo=github&logoColor=white" />
-          </a>
-          <a href="https://tecnicell-store.vercel.app">
-            <img src="https://img.shields.io/badge/Ver+Live-00D4FF?style=flat-square&logoColor=white" />
-          </a>
-        </p>
-        <p>
-          <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
-          <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-          <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
-        </p>
-      </div>
-    </td>
-  </tr>
-</table>
-
-<table>
-  <tr>
-    <td width="50%">
-      <div align="center">
         <h3>🛒 Container</h3>
         <p><b>Plataforma de Tienda de Tecnología</b></p>
         <p>Sistema integral de ecommerce especializado en productos tecnológicos con gestión de inventario, usuarios y órdenes.</p>
@@ -114,7 +89,12 @@
         </p>
       </div>
     </td>
-    <td width="50%">
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td width="100%">
       <div align="center">
         <h3>🧪 Container Tester</h3>
         <p><b>Herramienta de Testing para Contenedores</b></p>
