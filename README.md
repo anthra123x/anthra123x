@@ -96,18 +96,18 @@
   <tr>
     <td width="100%">
       <div align="center">
-        <h3>🧪 Container Tester</h3>
-        <p><b>Herramienta de Testing para Contenedores</b></p>
-        <p>Plataforma especializada para testing, validación y monitoreo de aplicaciones containerizadas con Docker. Incluye análisis de rendimiento y reportes detallados.</p>
+        <h3>🖥️ Container Diagnostic Suite</h3>
+        <p><b>Herramienta de Diagnóstico de Hardware</b></p>
+        <p>Aplicación portable de escritorio que analiza CPU, RAM, GPU, almacenamiento, batería, sensores y red en equipos Windows. Diagnóstico automático de 8 fases con pruebas manuales de componentes.</p>
         <p>
           <a href="https://github.com/anthra123x/container-tester">
             <img src="https://img.shields.io/badge/Código-181717?style=flat-square&logo=github&logoColor=white" />
           </a>
         </p>
         <p>
-          <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+          <img src="https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white" />
+          <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
           <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-          <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
         </p>
       </div>
     </td>
