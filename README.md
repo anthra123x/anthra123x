@@ -162,9 +162,13 @@
 
 <div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=anthra123x&theme=github-dark-blue&hide_border=true&border_radius=10)
-
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=anthra123x&theme=github-dark&hide_border=true&area=true&radius=10)
+
+<br>
+
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=anthra123x&theme=github_dark)
+![Repos per Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=anthra123x&theme=github_dark)
+![Most Commit Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=anthra123x&theme=github_dark)
 
 </div>
 
