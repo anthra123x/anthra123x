@@ -162,13 +162,9 @@
 
 <div align="center">
 
+![GitHub Streak](https://streak-stats.demolab.com/?user=anthra123x&theme=github-dark-blue&hide_border=true&border_radius=10)
+
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=anthra123x&theme=github-dark&hide_border=true&area=true&radius=10)
-
-<br>
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=anthra123x&theme=dark&hide_border=true&border_radius=10)
-
-![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anthra123x&theme=github_dark)
 
 </div>
 
