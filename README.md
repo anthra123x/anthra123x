@@ -16,6 +16,7 @@
 🌟 3+ proyectos en producción con miles de usuarios
 📚 Aprendiz constante del ecosistema JavaScript/TypeScript
 🚀 Entusiasta de las mejores prácticas y arquitectura limpia
+🖥️ Ingeniero de sistemas Linux (Fedora + i3-N305 + opencode)
 ```
 
 ---
@@ -57,9 +58,6 @@
         <p>
           <a href="https://github.com/anthra123x/inventario-tecnicell">
             <img src="https://img.shields.io/badge/Código-181717?style=flat-square&logo=github&logoColor=white" />
-          </a>
-          <a href="https://inventario-tecnicell-mvg1.vercel.app">
-            <img src="https://img.shields.io/badge/Ver+Live-00D4FF?style=flat-square&logoColor=white" />
           </a>
         </p>
         <p>
@@ -108,6 +106,47 @@
           <img src="https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white" />
           <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
           <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+        </p>
+      </div>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🛠️ Proyectos de Configuración y Herramientas
+
+<table>
+  <tr>
+    <td width="50%">
+      <div align="center">
+        <h3>⚙️ opencode Config</h3>
+        <p><b>Configuración portable de opencode</b></p>
+        <p>34 skills ECC especializados, servidor MCP de grafos de código, prompts de sistema con metodología de ingeniería, y comandos personalizados. Diseñado para desarrollo profesional con IA.</p>
+        <p>
+          <a href="https://github.com/anthra123x/opencode_config">
+            <img src="https://img.shields.io/badge/Código-181717?style=flat-square&logo=github&logoColor=white" />
+          </a>
+        </p>
+        <p>
+          <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+          <img src="https://img.shields.io/badge/MCP-000000?style=flat-square&logo=github&logoColor=white" />
+        </p>
+      </div>
+    </td>
+    <td width="50%">
+      <div align="center">
+        <h3>🖼️ Waypaper Fork</h3>
+        <p><b>Gestor de fondos de pantalla extendido</b></p>
+        <p>Fork personal de Waypaper 2.8 con soporte para Wallhaven (combo box por categoría), búsqueda y refresh, wallpapers locales, teclas keep/discard/save, wrapper de GNOME gsettings y wallpaper-brain con systemd timers.</p>
+        <p>
+          <a href="https://github.com/anthra123x/waypaper-my-version-">
+            <img src="https://img.shields.io/badge/Código-181717?style=flat-square&logo=github&logoColor=white" />
+          </a>
+        </p>
+        <p>
+          <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+          <img src="https://img.shields.io/badge/GTK4-4A90D9?style=flat-square&logo=gtk&logoColor=white" />
         </p>
       </div>
     </td>
