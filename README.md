@@ -166,9 +166,9 @@
 
 <br>
 
-![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=anthra123x&theme=github_dark)
-![Repos per Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=anthra123x&theme=github_dark)
-![Most Commit Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=anthra123x&theme=github_dark)
+![](https://img.shields.io/github/followers/anthra123x?style=for-the-badge&logo=github&color=00D4FF&labelColor=0d1117)
+![](https://img.shields.io/github/stars/anthra123x?style=for-the-badge&logo=github&color=00D4FF&labelColor=0d1117)
+![](https://img.shields.io/github/last-commit/anthra123x/anthra123x?style=for-the-badge&logo=github&color=00D4FF&labelColor=0d1117&label=Updated)
 
 </div>
 
