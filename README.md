@@ -59,6 +59,9 @@
           <a href="https://github.com/anthra123x/inventario-tecnicell">
             <img src="https://img.shields.io/badge/Código-181717?style=flat-square&logo=github&logoColor=white" />
           </a>
+          <a href="https://gestion-reparaciones-neon.vercel.app/dashboard">
+            <img src="https://img.shields.io/badge/Ver+Live-00D4FF?style=flat-square&logoColor=white" />
+          </a>
         </p>
         <p>
           <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
