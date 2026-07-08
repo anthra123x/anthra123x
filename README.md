@@ -13,10 +13,10 @@
 ```
 👨‍💻 Desarrollador Fullstack especializado en Next.js & React
 🎯 Apasionado por crear aplicaciones web escalables y performantes
-🌟 3+ proyectos en producción con miles de usuarios
+🌟 3+ proyectos en producción
 📚 Aprendiz constante del ecosistema JavaScript/TypeScript
 🚀 Entusiasta de las mejores prácticas y arquitectura limpia
-🖥️ Ingeniero de sistemas Linux (Fedora + i3-N305 + opencode)
+🖥️ Ingeniero de sistemas Linux
 ```
 
 ---
@@ -162,9 +162,9 @@
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=anthra123x&show_icons=true&theme=transparent&bg_color=0d1117&text_color=58a6ff&icon_color=00d4ff&border_color=30363d&border_radius=10)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anthra123x&layout=compact&theme=transparent&bg_color=0d1117&text_color=58a6ff&border_color=30363d&border_radius=10)
+![Followers](https://img.shields.io/github/followers/anthra123x?style=for-the-badge&logo=github&color=00D4FF)
+![Stars](https://img.shields.io/github/stars/anthra123x?style=for-the-badge&logo=github&color=00D4FF)
+![Repos](https://img.shields.io/badge/dynamic/json?style=for-the-badge&logo=github&color=00D4FF&label=Repos&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fanthra123x)
 
 </div>
 
