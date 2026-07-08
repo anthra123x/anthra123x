@@ -12,7 +12,7 @@
 
 ```
 👨‍💻 Desarrollador Fullstack especializado en Next.js & React
-🎯 Pasionado por crear aplicaciones web escalables y performantes
+🎯 Apasionado por crear aplicaciones web escalables y performantes
 🌟 3+ proyectos en producción con miles de usuarios
 📚 Aprendiz constante del ecosistema JavaScript/TypeScript
 🚀 Entusiasta de las mejores prácticas y arquitectura limpia
@@ -56,11 +56,11 @@
         <p><b>Gestión de Inventario Integral</b></p>
         <p>Plataforma completa para administrar inventarios con autenticación avanzada, exportación a Excel y dashboard en tiempo real.</p>
         <p>
-          <a href="https://github.com/anthra123x/inventario-tecnicell">
+          <a href="https://github.com/anthra123x/gestion-inventario">
             <img src="https://img.shields.io/badge/Código-181717?style=flat-square&logo=github&logoColor=white" />
           </a>
           <a href="https://gestion-reparaciones-neon.vercel.app/dashboard">
-            <img src="https://img.shields.io/badge/Ver+Live-00D4FF?style=flat-square&logoColor=white" />
+            <img src="https://img.shields.io/badge/Ver+Live-00D4FF?style=flat-square&logo=vercel&logoColor=white" />
           </a>
         </p>
         <p>
@@ -80,7 +80,7 @@
             <img src="https://img.shields.io/badge/Código-181717?style=flat-square&logo=github&logoColor=white" />
           </a>
           <a href="https://container-app.vercel.app">
-            <img src="https://img.shields.io/badge/Ver+Live-00D4FF?style=flat-square&logoColor=white" />
+            <img src="https://img.shields.io/badge/Ver+Live-00D4FF?style=flat-square&logo=vercel&logoColor=white" />
           </a>
         </p>
         <p>
@@ -162,9 +162,9 @@
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=anthra123x&show_icons=true&theme=github_dark&bg_color=0d1117&text_color=58a6ff&icon_color=00d4ff&border_color=30363d&border_radius=10)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=anthra123x&show_icons=true&theme=transparent&bg_color=0d1117&text_color=58a6ff&icon_color=00d4ff&border_color=30363d&border_radius=10)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anthra123x&layout=compact&theme=github_dark&bg_color=0d1117&text_color=58a6ff&border_color=30363d&border_radius=10)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anthra123x&layout=compact&theme=transparent&bg_color=0d1117&text_color=58a6ff&border_color=30363d&border_radius=10)
 
 </div>
 
@@ -177,7 +177,7 @@
 ### Mi vCard Portfolio
 Una presentación profesional y moderna de mis habilidades, proyectos y experiencia como desarrollador.
 
-[![Portfolio](https://img.shields.io/badge/Ver+Portfolio+Completo-00D4FF?style=for-the-badge&logoColor=white)](https://vcard-portfolio-lyart.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Ver+Portfolio+Completo-00D4FF?style=for-the-badge&logo=vercel&logoColor=white)](https://vcard-portfolio-lyart.vercel.app/)
 
 *Desarrollado con Next.js, React y Tailwind CSS*
 
