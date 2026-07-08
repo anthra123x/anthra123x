@@ -166,9 +166,9 @@
 
 <br>
 
-![](https://img.shields.io/github/followers/anthra123x?style=for-the-badge&logo=github&color=00D4FF&labelColor=0d1117)
-![](https://img.shields.io/github/stars/anthra123x?style=for-the-badge&logo=github&color=00D4FF&labelColor=0d1117)
-![](https://img.shields.io/github/last-commit/anthra123x/anthra123x?style=for-the-badge&logo=github&color=00D4FF&labelColor=0d1117&label=Updated)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=anthra123x&theme=dark&hide_border=true&border_radius=10)
+
+![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anthra123x&theme=github_dark)
 
 </div>
 
