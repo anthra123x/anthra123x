@@ -11,7 +11,7 @@ Desarrollador de software apasionado por construir aplicaciones web modernas, r�
 - 💻 Especializado en **Next.js**, **React**, **TypeScript** y **Tailwind CSS**.
 - ⚙️ Backend y persistencia con **Node.js**, **PostgreSQL**, **Prisma** y **Supabase**.
 - 🐧 Usuario diario de Linux; disfruto configurar mis flujos de trabajo, terminales y herramientas para máxima eficiencia.
-- 📚 Estudiante de Análisis y Desarrollo de Software, siempre profundizando en arquitectura limpia y mejores prácticas de ingeniería.
+- 📚 Estudiante de Ingeniería de Sistemas, profundizando en fundamentos de computación, arquitectura limpia y sistemas eficientes.
 - 🌐 Mis proyectos en producción y casos de estudio están reunidos en mi [portafolio interactivo](https://vcard-portfolio-lyart.vercel.app/).
 
 <br />
