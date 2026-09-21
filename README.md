@@ -1,17 +1,5 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/anthra123x/anthra123x/main/assets/terminal-header.svg" alt="Andrés Camilo Martínez - Terminal Header" width="100%" />
-
-  <br /><br />
-
-  <a href="https://vcard-portfolio-lyart.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portafolio-00D4FF?style=flat-square&logo=vercel&logoColor=white&labelColor=0d1117" alt="Portafolio" />
-  </a>
-  <a href="mailto:andrescamilomartinez@gmail.com">
-    <img src="https://img.shields.io/badge/Email-andrescamilomartinez%40gmail.com-0d1117?style=flat-square&logo=gmail&logoColor=EA4335" alt="Email" />
-  </a>
-  <a href="https://github.com/anthra123x">
-    <img src="https://img.shields.io/badge/GitHub-anthra123x-0d1117?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
-  </a>
 </div>
 
 <br />
@@ -46,4 +34,28 @@ Desarrollador de software apasionado por construir aplicaciones web modernas, r�
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/anthra123x/anthra123x/main/dist/github-contribution-grid-snake.svg" />
     <img alt="Snake Contribution Animation" src="https://raw.githubusercontent.com/anthra123x/anthra123x/main/dist/github-contribution-grid-snake-dark.svg" width="100%" />
   </picture>
+</div>
+
+<br />
+
+### 📬 Conectemos
+
+<div align="center">
+
+¿Tienes algún proyecto en mente, una consulta o quieres hablar sobre tecnología?
+
+<br />
+
+<a href="https://vcard-portfolio-lyart.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/Portafolio_Web-00D4FF?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0d1117" alt="Portafolio" />
+</a>
+&nbsp;&nbsp;
+<a href="mailto:andrescamilomartinez@gmail.com">
+  <img src="https://img.shields.io/badge/Enviar_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" alt="Email" />
+</a>
+&nbsp;&nbsp;
+<a href="https://github.com/anthra123x">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" alt="GitHub" />
+</a>
+
 </div>
