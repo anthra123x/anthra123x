@@ -12,7 +12,7 @@ Desarrollador de software apasionado por construir aplicaciones web modernas, r�
 - ⚙️ Backend y persistencia con **Node.js**, **PostgreSQL**, **Prisma** y **Supabase**.
 - 🐧 Usuario diario de Linux; disfruto configurar mis flujos de trabajo, terminales y herramientas para máxima eficiencia.
 - 📚 Estudiante de Ingeniería de Sistemas, profundizando en fundamentos de computación, arquitectura limpia y sistemas eficientes.
-- 🌐 Mis proyectos en producción y casos de estudio están reunidos en mi [portafolio interactivo](portfolio-sand-omega-07bosighzs.vercel.app).
+- 🌐 Mis proyectos en producción y casos de estudio están reunidos en mi [portafolio interactivo](https://portfolio-5tx14i7qw-andres-camilo-martinez-s-projects.vercel.app).
 
 <br />
 
