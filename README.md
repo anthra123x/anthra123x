@@ -47,15 +47,15 @@ Desarrollador de software apasionado por construir aplicaciones web modernas, r√
 <br />
 
 <a href="https://vcard-portfolio-lyart.vercel.app/" target="_blank">
-  <img src="https://img.shields.io/badge/Portafolio_Web-00D4FF?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0d1117" alt="Portafolio" />
+  <img src="https://raw.githubusercontent.com/anthra123x/anthra123x/main/assets/button-portfolio.svg" alt="Portafolio" />
 </a>
 &nbsp;&nbsp;
 <a href="mailto:andrescamilomartinez@gmail.com">
-  <img src="https://img.shields.io/badge/Enviar_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" alt="Email" />
+  <img src="https://raw.githubusercontent.com/anthra123x/anthra123x/main/assets/button-email.svg" alt="Contacto" />
 </a>
 &nbsp;&nbsp;
 <a href="https://github.com/anthra123x">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" alt="GitHub" />
+  <img src="https://raw.githubusercontent.com/anthra123x/anthra123x/main/assets/button-github.svg" alt="GitHub" />
 </a>
 
 </div>
