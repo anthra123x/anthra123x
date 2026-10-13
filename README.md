@@ -46,7 +46,7 @@ Desarrollador de software apasionado por construir aplicaciones web modernas, r√
 
 <br />
 
-<a href="portfolio-sand-omega-07bosighzs.vercel.app" target="_blank">
+<a href="https://portfolio-sand-omega-07bosighzs.vercel.app/" target="_blank">
   <img src="https://raw.githubusercontent.com/anthra123x/anthra123x/main/assets/button-portfolio.svg" alt="Portafolio" />
 </a>
 &nbsp;&nbsp;
