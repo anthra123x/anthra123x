@@ -1,19 +1,13 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 180 42" width="180" height="42">
-  <defs>
-    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#0d1117" />
-      <stop offset="100%" stop-color="#161b22" />
-    </linearGradient>
-  </defs>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 150 36" width="150" height="36">
+  <style>
+    .mono { font-family: ui-monospace, SFMono-Regular, "SF Mono", Menlo, Consolas, "Liberation Mono", monospace; }
+  </style>
 
-  <rect x="1" y="1" width="178" height="40" rx="8" fill="url(#bg)" stroke="#30363d" stroke-width="1.5" />
-  <circle cx="16" cy="21" r="3" fill="#EA4335" />
-  
-  <!-- Email icon -->
-  <rect x="27" y="14" width="18" height="14" rx="2" fill="none" stroke="#EA4335" stroke-width="1.6" />
-  <path d="M 28 16 L 36 22 L 44 16" fill="none" stroke="#EA4335" stroke-width="1.6" />
-  
-  <!-- Text -->
-  <text x="52" y="25.5" fill="#e6edf3" font-size="13" font-weight="600" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">contacto</text>
-  <text x="154" y="25.5" fill="#EA4335" font-size="13" font-weight="600" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">↗</text>
+  <rect x="0.5" y="0.5" width="149" height="35" rx="6" fill="#0d1117" stroke="#21262d" stroke-width="1" />
+
+  <!-- Envelope icon -->
+  <rect x="20" y="13" width="14" height="10.5" rx="1.5" fill="none" stroke="#58a6ff" stroke-width="1.2" />
+  <polyline points="20.5,13.5 27,19 33.5,13.5" fill="none" stroke="#58a6ff" stroke-width="1.2" stroke-linejoin="round" />
+
+  <text x="44" y="22.5" fill="#c9d1d9" font-size="12.5" font-weight="500" class="mono">contacto</text>
 </svg>

@@ -1,61 +1,51 @@
-<div align="center">
-  <img src="https://raw.githubusercontent.com/anthra123x/anthra123x/main/assets/terminal-header.svg" alt="Andrés Camilo Martínez - Terminal Header" width="100%" />
-</div>
+# Andrés Camilo Martínez
 
-<br />
+Desarrollador fullstack y estudiante de Ingeniería de Sistemas. Usuario diario de Linux (CachyOS / Arch).
+Enfocado en arquitecturas web escalables, persistencia relacional y flujos de desarrollo asistidos por inteligencia artificial.
 
-### 👋 Hola, soy Andrés
+> "Talk is cheap. Show me the code." — Linus Torvalds
 
-Desarrollador de software apasionado por construir aplicaciones web modernas, rápidas y con una experiencia de usuario bien cuidada. Me enfoco principalmente en el ecosistema de **TypeScript**, **Next.js**, **React** y **Node.js**, combinando interfaces reactivas con arquitecturas de backend sólidas.
+---
 
-- 💻 Especializado en **Next.js**, **React**, **TypeScript** y **Tailwind CSS**.
-- ⚙️ Backend y persistencia con **Node.js**, **PostgreSQL**, **Prisma** y **Supabase**.
-- 🐧 Usuario diario de Linux; disfruto configurar mis flujos de trabajo, terminales y herramientas para máxima eficiencia.
-- 📚 Estudiante de Ingeniería de Sistemas, profundizando en fundamentos de computación, arquitectura limpia y sistemas eficientes.
-- 🌐 Mis proyectos en producción y casos de estudio están reunidos en mi [portafolio interactivo](https://portfolio-5tx14i7qw-andres-camilo-martinez-s-projects.vercel.app).
+### Principios de Ingeniería
 
-<br />
+- **Estructuras de datos y arquitectura primero**: El software se diseña a partir del modelo de datos y sus relaciones. Tipado estricto y separación clara de responsabilidades sin capas de abstracción innecesarias.
+- **Ingeniería asistida por IA**: Uso de modelos de lenguaje (LLMs), flujos de trabajo agénticos y automatización como multiplicadores de productividad técnica para diseño de arquitectura, testing y refactorización.
+- **Entorno nativo en Linux**: Flujo de desarrollo forjado en terminal sobre CachyOS / Arch Linux (Zsh, Neovim, Shell scripting y contenedores Docker).
+- **Orientación a producción**: Código probado, mantenible y enfocado en resolver problemas reales con mínima fricción operativa.
 
-### 🛠️ Tecnologías & Herramientas
+---
 
-<div align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,nodejs,postgres,prisma,supabase,docker,git,linux&perline=11&theme=dark" alt="Tecnologías" />
-  </a>
-</div>
+### Subsistemas Técnicos
 
-<br />
+| Subsistema | Tecnologías & Herramientas | Enfoque |
+| :--- | :--- | :--- |
+| **Lenguajes** | `TypeScript` `JavaScript` `Python` `Bash / POSIX Shell` `SQL` | Tipado estricto, automatización y consultas |
+| **Frontend & UI** | `Next.js 16` `React 19` `Tailwind CSS` `Electron` | App Router, Server Actions, interfaces reactivas y escritorio |
+| **Backend & Datos** | `Node.js` `PostgreSQL` `Prisma ORM` `Supabase` | Servicios RESTful, modelado relacional e integridad |
+| **IA & Automatización** | `OpenAI API` `Anthropic API` `Gemini API` `Vercel AI SDK` | Flujos agénticos, integración de LLMs y automatización del SDLC |
+| **Infraestructura & Dev** | `Linux (CachyOS/Arch)` `Docker` `Git` `GitHub Actions` `Neovim` | Entornos reproducibles, CI/CD y edición en terminal |
 
-### 🐍 Contribuciones
+---
 
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/anthra123x/anthra123x/main/dist/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/anthra123x/anthra123x/main/dist/github-contribution-grid-snake.svg" />
-    <img alt="Snake Contribution Animation" src="https://raw.githubusercontent.com/anthra123x/anthra123x/main/dist/github-contribution-grid-snake-dark.svg" width="100%" />
-  </picture>
-</div>
+### Implementaciones & Proyectos
 
-<br />
+- **[Nova ERP](https://portfolio-anthra123x.vercel.app)**  
+  Plataforma comercial omnicanal con punto de venta (POS), inventario en tiempo real y asistente con inteligencia artificial integrado.  
+  `Next.js` · `TypeScript` · `PostgreSQL` · `Tailwind CSS` · `AI`
 
-### 📬 Conectemos
+- **[Apex Hardware Studio](https://portfolio-anthra123x.vercel.app)**  
+  Suite portable de diagnóstico profundo de hardware, telemetría y auditoría en tiempo real para Windows.  
+  `Electron` · `React` · `TypeScript` · `PowerShell`
 
-<div align="center">
+- **[Sentinel-QA](https://portfolio-anthra123x.vercel.app)**  
+  Herramienta de auditoría defensiva de seguridad (OWASP Top 10), pruebas de carga sintéticas con k6 y fuzzing de APIs.  
+  `TypeScript` · `Node.js` · `Linux Shell` · `k6`
 
-¿Tienes algún proyecto en mente, una consulta o quieres hablar sobre tecnología?
+---
 
-<br />
+### Contacto & Enlaces
 
-<a href="https://portfolio-sand-omega-07bosighzs.vercel.app/" target="_blank">
-  <img src="https://raw.githubusercontent.com/anthra123x/anthra123x/main/assets/button-portfolio.svg" alt="Portafolio" />
-</a>
-&nbsp;&nbsp;
-<a href="mailto:andrescamilomartinez@gmail.com">
-  <img src="https://raw.githubusercontent.com/anthra123x/anthra123x/main/assets/button-email.svg" alt="Contacto" />
-</a>
-&nbsp;&nbsp;
-<a href="https://github.com/anthra123x">
-  <img src="https://raw.githubusercontent.com/anthra123x/anthra123x/main/assets/button-github.svg" alt="GitHub" />
-</a>
-
-</div>
+- **Portafolio**: [portfolio-anthra123x.vercel.app](https://portfolio-anthra123x.vercel.app)
+- **GitHub**: [github.com/anthra123x](https://github.com/anthra123x)
+- **Correo**: [andrescamilomartinez@gmail.com](mailto:andrescamilomartinez@gmail.com)

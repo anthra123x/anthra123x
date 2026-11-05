@@ -47,9 +47,9 @@
   <text x="32" y="116" fill="#ffffff" font-size="28" font-weight="700" class="font-mono">Andrés Camilo Martínez</text>
 
   <!-- Subtitle -->
-  <text x="32" y="148" fill="url(#accent)" font-size="16" font-weight="600" class="font-mono">Fullstack Developer · TypeScript · Next.js · Linux</text>
+  <text x="32" y="148" fill="url(#accent)" font-size="16" font-weight="600" class="font-mono">Fullstack Developer &amp; AI Workflows · TypeScript · Next.js · Linux</text>
 
   <!-- Line 2: Status / Prompt -->
-  <text x="32" y="184" fill="#8b949e" font-size="14" class="font-mono">building scalable web apps &amp; clean architectures</text>
-  <rect x="425" y="171" width="8" height="15" fill="#00D4FF" class="cursor" />
+  <text x="32" y="184" fill="#8b949e" font-size="14" class="font-mono">building scalable web apps, AI workflows &amp; clean architectures</text>
+  <rect x="545" y="171" width="8" height="15" fill="#00D4FF" class="cursor" />
 </svg>

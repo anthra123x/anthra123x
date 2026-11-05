@@ -1,18 +1,12 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 180 42" width="180" height="42">
-  <defs>
-    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#0d1117" />
-      <stop offset="100%" stop-color="#161b22" />
-    </linearGradient>
-  </defs>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 150 36" width="150" height="36">
+  <style>
+    .mono { font-family: ui-monospace, SFMono-Regular, "SF Mono", Menlo, Consolas, "Liberation Mono", monospace; }
+  </style>
 
-  <rect x="1" y="1" width="178" height="40" rx="8" fill="url(#bg)" stroke="#30363d" stroke-width="1.5" />
-  <circle cx="16" cy="21" r="3" fill="#00D4FF" />
-  
-  <!-- Vercel icon -->
-  <path d="M 28 27 L 36 13 L 44 27 Z" fill="#00D4FF" />
-  
-  <!-- Text -->
-  <text x="52" y="25.5" fill="#e6edf3" font-size="13" font-weight="600" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">portafolio</text>
-  <text x="154" y="25.5" fill="#00D4FF" font-size="13" font-weight="600" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">↗</text>
+  <rect x="0.5" y="0.5" width="149" height="35" rx="6" fill="#0d1117" stroke="#21262d" stroke-width="1" />
+
+  <!-- Vercel triangle -->
+  <path d="M 24 25 L 30 14 L 36 25 Z" fill="#58a6ff" />
+
+  <text x="46" y="22.5" fill="#c9d1d9" font-size="12.5" font-weight="500" class="mono">portafolio</text>
 </svg>
