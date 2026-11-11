@@ -9,5 +9,5 @@
   <rect x="20" y="13" width="14" height="10.5" rx="1.5" fill="none" stroke="#58a6ff" stroke-width="1.2" />
   <polyline points="20.5,13.5 27,19 33.5,13.5" fill="none" stroke="#58a6ff" stroke-width="1.2" stroke-linejoin="round" />
 
-  <text x="44" y="22.5" fill="#c9d1d9" font-size="12.5" font-weight="500" class="mono">contacto</text>
+  <text x="48" y="22.5" fill="#c9d1d9" font-size="12.5" font-weight="500" class="mono">contact</text>
 </svg>

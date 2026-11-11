@@ -1,51 +1,51 @@
 # Andrés Camilo Martínez
 
-Desarrollador fullstack y estudiante de Ingeniería de Sistemas. Usuario diario de Linux (CachyOS / Arch).
-Enfocado en arquitecturas web escalables, persistencia relacional y flujos de desarrollo asistidos por inteligencia artificial.
+Fullstack software developer and systems engineering student. Daily Linux user (CachyOS / Arch).
+Focused on scalable web architectures, relational persistence, and AI-augmented engineering workflows.
 
 > "Talk is cheap. Show me the code." — Linus Torvalds
 
 ---
 
-### Principios de Ingeniería
+### Engineering Principles
 
-- **Estructuras de datos y arquitectura primero**: El software se diseña a partir del modelo de datos y sus relaciones. Tipado estricto y separación clara de responsabilidades sin capas de abstracción innecesarias.
-- **Ingeniería asistida por IA**: Uso de modelos de lenguaje (LLMs), flujos de trabajo agénticos y automatización como multiplicadores de productividad técnica para diseño de arquitectura, testing y refactorización.
-- **Entorno nativo en Linux**: Flujo de desarrollo forjado en terminal sobre CachyOS / Arch Linux (Zsh, Neovim, Shell scripting y contenedores Docker).
-- **Orientación a producción**: Código probado, mantenible y enfocado en resolver problemas reales con mínima fricción operativa.
+- **Data structures and architecture first**: Software designed around solid data models and their relationships. Strict typing and clear separation of concerns without unnecessary abstraction layers.
+- **AI-augmented engineering**: Leveraging Large Language Models (LLMs), agentic workflows, and automation as technical multipliers for architectural design, testing, and refactoring.
+- **Native Linux environment**: Terminal-driven development on CachyOS / Arch Linux (Zsh, Neovim, Shell scripting, and Docker containers).
+- **Production-oriented**: Tested, maintainable code engineered to solve real-world problems with minimal operational friction.
 
 ---
 
-### Subsistemas Técnicos
+### Technical Subsystems
 
-| Subsistema | Tecnologías & Herramientas | Enfoque |
+| Subsystem | Technologies & Tools | Focus |
 | :--- | :--- | :--- |
-| **Lenguajes** | `TypeScript` `JavaScript` `Python` `Bash / POSIX Shell` `SQL` | Tipado estricto, automatización y consultas |
-| **Frontend & UI** | `Next.js 16` `React 19` `Tailwind CSS` `Electron` | App Router, Server Actions, interfaces reactivas y escritorio |
-| **Backend & Datos** | `Node.js` `PostgreSQL` `Prisma ORM` `Supabase` | Servicios RESTful, modelado relacional e integridad |
-| **IA & Automatización** | `OpenAI API` `Anthropic API` `Gemini API` `Vercel AI SDK` | Flujos agénticos, integración de LLMs y automatización del SDLC |
-| **Infraestructura & Dev** | `Linux (CachyOS/Arch)` `Docker` `Git` `GitHub Actions` `Neovim` | Entornos reproducibles, CI/CD y edición en terminal |
+| **Languages** | `TypeScript` `JavaScript` `Python` `Bash / POSIX Shell` `SQL` | Strict typing, automation, and query optimization |
+| **Frontend & UI** | `Next.js 16` `React 19` `Tailwind CSS` `Electron` | App Router, Server Actions, reactive interfaces, and desktop |
+| **Backend & Data** | `Node.js` `PostgreSQL` `Prisma ORM` `Supabase` | RESTful services, relational modeling, and data integrity |
+| **AI & Automation** | `OpenAI API` `Anthropic API` `Gemini API` `Vercel AI SDK` | Agentic workflows, LLM integration, and SDLC automation |
+| **Infrastructure & Dev** | `Linux (CachyOS/Arch)` `Docker` `Git` `GitHub Actions` `Neovim` | Reproducible environments, CI/CD, and terminal-based editing |
 
 ---
 
-### Implementaciones & Proyectos
+### Implementations & Projects
 
 - **[Nova ERP](https://portfolio-anthra123x.vercel.app)**  
-  Plataforma comercial omnicanal con punto de venta (POS), inventario en tiempo real y asistente con inteligencia artificial integrado.  
+  Omnichannel commercial management platform featuring point of sale (POS), real-time inventory tracking, and an integrated AI assistant.  
   `Next.js` · `TypeScript` · `PostgreSQL` · `Tailwind CSS` · `AI`
 
 - **[Apex Hardware Studio](https://portfolio-anthra123x.vercel.app)**  
-  Suite portable de diagnóstico profundo de hardware, telemetría y auditoría en tiempo real para Windows.  
+  Portable deep hardware diagnostics, telemetry, and real-time controller audit suite for Windows.  
   `Electron` · `React` · `TypeScript` · `PowerShell`
 
 - **[Sentinel-QA](https://portfolio-anthra123x.vercel.app)**  
-  Herramienta de auditoría defensiva de seguridad (OWASP Top 10), pruebas de carga sintéticas con k6 y fuzzing de APIs.  
+  Defensive security audit tool (OWASP Top 10), synthetic load testing with k6, and API payload fuzzing.  
   `TypeScript` · `Node.js` · `Linux Shell` · `k6`
 
 ---
 
-### Contacto & Enlaces
+### Contact & Links
 
-- **Portafolio**: [www.anthra123x.dev](https://www.anthra123x.dev/)
+- **Portfolio**: [www.anthra123x.dev](https://www.anthra123x.dev/)
 - **GitHub**: [github.com/anthra123x](https://github.com/anthra123x)
-- **Correo**: [andrescamilomartinez@gmail.com](mailto:andrescamilomartinez@gmail.com)
+- **Email**: [andrescamilomartinez@gmail.com](mailto:andrescamilomartinez@gmail.com)
